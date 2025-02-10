@@ -1,0 +1,60 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "CustomEntities",
+      "bundleOptions": {
+        "hash": "gFxkCPvr/CXu0M6O5y8LrrXz1/dMfrB+sWTx0HeT2JR6min6UAmiuBd3glyZPiMgC84OT7384qNgEOynsOkzvQ==",
+        "bundleName": "CBCCE9F9A71_createOCR_Create",
+        "entitiesBundle": {
+          "Types": {
+            "createOCR_Create": {
+              "name": "createOCR_Create",
+              "properties": [
+                {
+                  "name": "location",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  }
+                },
+                {
+                  "name": "id",
+                  "type": {
+                    "ClrType": "System.String, System.Private.CoreLib"
+                  },
+                  "attributes": {
+                    "values": [
+                      {
+                        "Type": {
+                          "ClrType": "System.ComponentModel.CategoryAttribute, System.ComponentModel.Primitives"
+                        },
+                        "constructorArguments": [
+                          {
+                            "Value": "\"Simplified\"",
+                            "type": {
+                              "ClrType": "System.String, System.Private.CoreLib"
+                            }
+                          }
+                        ],
+                        "namedArguments": []
+                      }
+                    ]
+                  }
+                }
+              ],
+              "baseType": null
+            }
+          },
+          "version": 1
+        }
+      },
+      "entityAssemblyKey": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.CBCCE9F9A71_createOCR_Create",
+        "hash": "Z0Z4a0NQdnIvQ1h1ME02TzV5OExyclh6MS9kTWZyQitzV1R4MEhlVDJKUjZtaW42VUFtaXVCZDNnbHlaUGlNZ0M4NE9UNzM4NHFOZ0VPeW5zT2t6dlE9PQ",
+        "assemblyName": "CBCCE9F9A71_createOC.pJ8em3i4ClD1pdzKF2tissn"
+      }
+    }
+  ]
+}
